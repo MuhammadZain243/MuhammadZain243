@@ -4,7 +4,6 @@
 
 I build responsive, scalable web apps and love turning ideas into clean, maintainable code. I’ve worked across the MERN stack, Flask + AI integrations, and data analytics with SQL/Power BI. Always learning, always shipping.
 
----
 
 ## 🔗 Quick Links
 
@@ -12,7 +11,6 @@ I build responsive, scalable web apps and love turning ideas into clean, maintai
 * 💼 LinkedIn: **[https://www.linkedin.com/in/zain688/](https://www.linkedin.com/in/zain688/)**
 * ✉️ Email: **[zainm2432003@gmail.com](mailto:zainm2432003@gmail.com)**
 
----
 
 ## 🧑‍💻 About Me
 
@@ -22,7 +20,6 @@ I build responsive, scalable web apps and love turning ideas into clean, maintai
 * Strong in **Front‑end (React + Tailwind)** and **Back‑end (Node/Express, Flask)**
 * Passionate about **accessibility**, **developer experience**, and **ML for assistive tech**
 
----
 
 ## 🧰 Tech Stack
 
@@ -38,7 +35,6 @@ I build responsive, scalable web apps and love turning ideas into clean, maintai
 
 **Other:** Git/GitHub, REST APIs, Entity Framework, Power BI
 
----
 
 ## 🏢 Experience
 
@@ -58,13 +54,11 @@ I build responsive, scalable web apps and love turning ideas into clean, maintai
 * Created **Power BI** dashboards and **SQL** queries for real‑world datasets
 * Delivered actionable insights and interactive visualizations
 
----
 
 ## 🛠️ Selected Projects
 
 ### 1) **Handspeak — Urdu Sign Language Translation & Representation (FYP)** *(2024–2025)*
-
-Android app bridging communication between deaf‑mute individuals and conventional speakers.
+An Android app bridging communication between deaf‑mute individuals and conventional speakers.
 
 * **Tech:** Python, TensorFlow, OpenCV, Flutter
 * **Highlights:**
@@ -104,14 +98,12 @@ Academic tracking with secure auth, analytics, and goal setting.
 
 > 💡 Want to see more? Check pinned repos below or visit my portfolio.
 
----
 
 ## 🎓 Education
 
 **BS in Computer Science** — University of Engineering and Technology, New Campus, Lahore
 **ICS (92%)** — PAEC Boys College, Chashma, Mianwali
 
----
 
 ## 📈 GitHub Stats (fun)
 
@@ -121,7 +113,6 @@ Academic tracking with secure auth, analytics, and goal setting.
 
 ![Zain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadZain243\&show_icons=true)
 
----
 
 ## 🤝 Let’s Collaborate
 
