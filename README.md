@@ -7,9 +7,9 @@ I build responsive, scalable web apps and love turning ideas into clean, maintai
 
 ## 🔗 Quick Links
 
-* 🌐 Portfolio: **[https://zainulabideenportfolio.netlify.app/](https://zainulabideenportfolio.netlify.app/)**
-* 💼 LinkedIn: **[https://www.linkedin.com/in/zain688/](https://www.linkedin.com/in/zain688/)**
-* ✉️ Email: **[zainm2432003@gmail.com](mailto:zainm2432003@gmail.com)**
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=flat-square\&logo=netlify)](https://zainulabideenportfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/zain688/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square\&logo=gmail)](mailto:zainm2432003@gmail.com)
 
 
 ## 🧑‍💻 About Me
@@ -23,17 +23,18 @@ I build responsive, scalable web apps and love turning ideas into clean, maintai
 
 ## 🧰 Tech Stack
 
-**Languages:** JavaScript, TypeScript (learning), Python, Java, C#, C++, PHP, Kotlin
-
-**Front‑end:** React, Next.js (learning), HTML5, CSS3, Tailwind CSS
-
-**Back‑end:** Node.js, Express.js, Flask, ASP.NET Core (C#)
-
-**Databases:** MongoDB, SQL Server, MySQL
-
-**ML/AI & CV:** TensorFlow, OpenCV
-
-**Other:** Git/GitHub, REST APIs, Entity Framework, Power BI
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square\&logo=mongodb\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=c-sharp\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=java\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square\&logo=mysql\&logoColor=white)
 
 
 ## 🏢 Experience
@@ -58,60 +59,50 @@ I build responsive, scalable web apps and love turning ideas into clean, maintai
 ## 🛠️ Selected Projects
 
 ### 1) **Handspeak — Urdu Sign Language Translation & Representation (FYP)** *(2024–2025)*
-An Android app bridging communication between deaf‑mute individuals and conventional speakers.
+
+Android app bridging communication between deaf‑mute individuals and conventional speakers.
 
 * **Tech:** Python, TensorFlow, OpenCV, Flutter
-* **Highlights:**
-
-  * PSL **gesture detection** (CV + DL)
-  * **Sign ↔ Text/Speech** translation in Urdu
-  * **Text‑to‑Sign** animated PSL gestures
-  * Built a **custom dataset**, used **key‑point detection** (e.g., OpenPose), and focused on accessibility & privacy
+* **Highlights:** Gesture detection, sign ↔ text/speech translation, text‑to‑sign animations, dataset building
 
 ### 2) **Alumni Management System** *(May 2025)*
 
-Full platform for universities to engage alumni with dashboards and role‑based access.
-
 * **Tech:** C#, ASP.NET Core, Entity Framework, SQL Server
-* **Highlights:** Role‑based auth, event management, job postings, reporting & analytics, alumni profiles
+* Role‑based auth, event management, job postings, analytics
 
 ### 3) **Pharmacy Management System** *(Jan 2023)*
 
-Management system to streamline operations and inventory.
-
 * **Tech:** C#, MySQL
-* **Highlights:** Medicine, patient, stock, and order management; remote patient interaction; intuitive UI
+* Medicine, patient, and stock management
 
 ### 4) **Railway Management System** *(2022)*
 
-Desktop app for employee, schedule, and ticket workflows.
-
 * **Tech:** Java Swing, MySQL
-* **Highlights:** Employee CRUD, train scheduling, ticket booking/cancellation, optimized DB queries
+* Employee CRUD, train scheduling, ticket booking/cancellation
 
 ### 5) **Student Grade Tracker** *(2023)*
 
-Academic tracking with secure auth, analytics, and goal setting.
-
 * **Tech:** Java, JSP, Jakarta EE, MySQL
-* **Highlights:** Attendance visualization, grade projections, strong auth & encryption
-
-> 💡 Want to see more? Check pinned repos below or visit my portfolio.
+* Grade projections, attendance visualization, secure authentication
 
 
 ## 🎓 Education
 
-**BS in Computer Science** — University of Engineering and Technology, New Campus, Lahore
+**BS in Computer Science** — University of Engineering and Technology, Lahore
 **ICS (92%)** — PAEC Boys College, Chashma, Mianwali
 
 
-## 📈 GitHub Stats (fun)
+## 📈 GitHub Stats & More
 
 > *Note: These widgets are generated by third‑party services.*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZain243\&layout=compact)
 
 ![Zain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadZain243\&show_icons=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadZain243\&theme=default)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=MuhammadZain243\&theme=flat\&no-frame=true\&margin-w=10)
 
 
 ## 🤝 Let’s Collaborate
