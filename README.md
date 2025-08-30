@@ -1,11 +1,12 @@
-# Hi, I'm **Muhammad Zain Ul Abideen** 👋
+# Hi, I'm **Muhammad Zain Ul Abideen**
 
-🚀 **MERN Stack Developer | Full-Stack Explorer | AI & Data Enthusiast**
-💻 Crafting scalable apps • 🎨 Designing clean UIs • 📊 Exploring ML & Analytics
+**MERN Stack Developer | Full-Stack Explorer | AI & Data Enthusiast**
 
-🌟 Passionate about building **impactful solutions** that connect people and technology. From full-stack web apps to AI-powered projects, I love turning complex problems into elegant solutions. My journey spans **React, Next.js, Node/Express, Flask, ASP.NET, Flutter, AI integrations, and Data Visualization** — and I’m always pushing myself to learn more.
+Crafting scalable apps • Designing clean UIs • Exploring ML & Analytics
 
-✨ When I’m not coding, you’ll find me experimenting with **new tech stacks**, diving into **ML projects**, or brainstorming ideas for **assistive technology** that makes lives easier.
+Passionate about building **impactful solutions** that connect people and technology. From full-stack web apps to AI-powered projects, I love turning complex problems into elegant solutions. My journey spans **React, Next.js, Node/Express, Flask, ASP.NET, Flutter, AI integrations, and Data Visualization** — and I’m always pushing myself to learn more.
+
+When I’m not coding, you’ll find me experimenting with **new tech stacks**, diving into **ML projects**, or brainstorming ideas for **assistive technology** that makes lives easier.
 
 ## Quick Links
 
@@ -83,11 +84,6 @@
 
 * **Tech:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=java\&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square\&logo=java\&logoColor=white) ![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-007396?style=flat-square\&logo=java\&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square\&logo=mysql\&logoColor=white)
 * **Highlights:** Grade projections, attendance visualization, secure authentication
-
-## Education
-
-**BS in Computer Science** — University of Engineering and Technology, Lahore
-**ICS (92%)** — PAEC Boys College, Chashma, Mianwali
 
 ## Services
 
