@@ -118,7 +118,7 @@ When I’m not coding, you’ll find me experimenting with **new tech stacks**, 
 
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-brightgreen?style=for-the-badge\&logo=upwork)](https://www.upwork.com/freelancers/~01d018f9ca9768b53d?mp_source=share)
 
-## 📈 GitHub Stats & More
+## GitHub Stats & More
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZain243\&layout=compact)
 
