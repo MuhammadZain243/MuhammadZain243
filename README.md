@@ -4,7 +4,6 @@
 
 Crafting scalable apps • Designing clean UIs • Exploring ML & Analytics
 
----
 
 Passionate about building **impactful solutions** that connect people and technology. From full-stack web apps to AI-powered projects, I love turning complex problems into elegant solutions. My journey spans **React, Next.js, Node/Express, Flask, ASP.NET, Flutter, AI integrations, and Data Visualization** — and I’m always pushing myself to learn more.
 
