@@ -120,8 +120,6 @@ When I’m not coding, you’ll find me experimenting with **new tech stacks**, 
 
 ## GitHub Stats & More
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZain243\&layout=compact)
-
 ![Zain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadZain243\&show_icons=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadZain243\&theme=default)
