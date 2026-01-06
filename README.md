@@ -893,39 +893,6 @@ Technical Support
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Cool" width="30" /> &nbsp;Random Dev Zone
-
-<div align="center">
-
-### Dev Quote of the Day
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming)](https://github.com/piyushsuthar/github-readme-quotes)
-
-### Weekly Coding Breakdown
-
-```text
-Full-Stack Dev      ████████████████████░░░░░   80.00 % 
-Learning & Research ██████░░░░░░░░░░░░░░░░░░░   24.00 %
-UI/UX Design        ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
-Documentation       ██░░░░░░░░░░░░░░░░░░░░░░░    8.00 %
-Coffee Breaks        █░░░░░░░░░░░░░░░░░░░░░░░░    4.00 %
-```
-
-### Fun Facts About Me
-
-```yaml
-Night Owl Coder: Most productive between 10 PM - 3 AM
-Coffee Addiction: ~4 cups per coding session
-Coding Playlist: Lo-fi beats & instrumental
-Keyboard: Mechanical (Blue switches FTW!)
-Debug Method: Console.log everything 😅
-Favorite Quote: "It works on my machine!"
-```
-
-</div>
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Thanks%20for%20Visiting!%20⭐&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65"/>
 
 <div align="center">
