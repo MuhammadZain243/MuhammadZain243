@@ -329,7 +329,7 @@ const zain = {
 <tr>
 <td align="center">
 
-** Contribution Stats**
+**Contribution Stats**
 
 | Metric | Count |
 |:---:|:---:|
@@ -341,7 +341,7 @@ const zain = {
 </td>
 <td align="center">
 
-** Activity Stats**
+**Activity Stats**
 
 | Category | Value |
 |:---:|:---:|
@@ -539,7 +539,7 @@ Strengths:
 <tr>
 <td width="60%">
 
-> ** Final Year Project (2024-2025)**
+> **Final Year Project (2024-2025)**
 >
 > A comprehensive AI-powered solution bridging communication gaps between the deaf community and others through real-time Urdu Sign Language translation.
 
@@ -574,7 +574,7 @@ Strengths:
 </td>
 <td width="40%">
 
-** Project Details:**
+**Project Details:**
 
 | Aspect | Details |
 |:---|:---|
@@ -583,7 +583,7 @@ Strengths:
 | **My Role** | Lead Developer |
 | **Accuracy** | 95%+ |
 
-** Tech Stack:**
+**Tech Stack:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -591,7 +591,7 @@ Strengths:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-** Key Features:**
+**Key Features:**
 
 - Real-time gesture detection
 - Bi-directional translation
@@ -620,7 +620,7 @@ Strengths:
 <tr>
 <td width="60%">
 
-> ** Enterprise Solution (May 2025)**
+> **Enterprise Solution (May 2025)**
 >
 > A comprehensive web platform for managing alumni networks, events, job postings, and analytics for educational institutions.
 
@@ -652,7 +652,7 @@ Strengths:
 </td>
 <td width="40%">
 
-** Project Details:**
+**Project Details:**
 
 | Aspect | Details |
 |:---|:---|
@@ -661,7 +661,7 @@ Strengths:
 | **My Role** | Solo Developer |
 | **Users** | 500+ |
 
-** Tech Stack:**
+**Tech Stack:**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -669,7 +669,7 @@ Strengths:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-** Key Features:**
+**Key Features:**
 
 - Role-based authentication
 - Event management system
