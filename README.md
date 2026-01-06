@@ -70,7 +70,7 @@ const zain = {
         "Build AI products that help millions"
     ],
     
-    lifePhilosophy: "Code with purpose, design with empathy 💫"
+    lifePhilosophy: "Code with purpose, design with empathy"
 };
 ```
 
@@ -287,21 +287,21 @@ const zain = {
 
 </div>
 
-### 📊 Performance Dashboard
+### Performance Dashboard
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuhammadZain243&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadZain243&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </p>
 
-### 🔥 Language Analytics
+### Language Analytics
 
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZain243&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages Donut"/>
   <img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZain243&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=12" alt="Top Languages Compact"/>
 </p>
 
-### 📈 Contribution Activity
+### Contribution Activity
 
 <p align="center">
   <a href="https://github.com/MuhammadZain243">
@@ -309,19 +309,19 @@ const zain = {
   </a>
 </p>
 
-### 🏆 Achievement Showcase
+### Achievement Showcase
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MuhammadZain243&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="Trophies"/>
 </p>
 
-### 📅 Contribution Heatmap
+### Contribution Heatmap
 
 <p align="center">
   <img src="https://ghchart.rshah.org/00D9FF/MuhammadZain243" alt="GitHub Contribution Chart" width="100%"/>
 </p>
 
-### 📊 Detailed Metrics
+### Detailed Metrics
 
 <div align="center">
 
@@ -329,26 +329,26 @@ const zain = {
 <tr>
 <td align="center">
 
-**🔥 Contribution Stats**
+** Contribution Stats**
 
 | Metric | Count |
 |:---:|:---:|
-| 🎯 Public Repos | ![Repos](https://img.shields.io/badge/30+-6C63FF?style=flat-square) |
-| ⭐ Total Stars | ![Stars](https://img.shields.io/github/stars/MuhammadZain243?style=flat-square&color=yellow&label=) |
-| 👥 Followers | ![Followers](https://img.shields.io/github/followers/MuhammadZain243?style=flat-square&color=blue&label=) |
-| 🔄 Total Commits | ![Commits](https://img.shields.io/badge/1500+-00D9FF?style=flat-square) |
+| Public Repos | ![Repos](https://img.shields.io/badge/30+-6C63FF?style=flat-square) |
+| Total Stars | ![Stars](https://img.shields.io/github/stars/MuhammadZain243?style=flat-square&color=yellow&label=) |
+| Followers | ![Followers](https://img.shields.io/github/followers/MuhammadZain243?style=flat-square&color=blue&label=) |
+| Total Commits | ![Commits](https://img.shields.io/badge/1500+-00D9FF?style=flat-square) |
 
 </td>
 <td align="center">
 
-**⚡ Activity Stats**
+** Activity Stats**
 
 | Category | Value |
 |:---:|:---:|
-| 🎯 Pull Requests | `75+` |
-| 🐛 Issues Resolved | `40+` |
-| 📁 Projects Completed | `15+` |
-| 🏆 Achievements | `10+` |
+| Pull Requests | `75+` |
+| Issues Resolved | `40+` |
+| Projects Completed | `15+` |
+| Achievements | `10+` |
 
 </td>
 </tr>
@@ -367,7 +367,7 @@ const zain = {
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#00D9FF', 'primaryTextColor': '#fff', 'primaryBorderColor': '#00D9FF', 'lineColor': '#6C63FF', 'secondaryColor': '#0D1117', 'tertiaryColor': '#0D1117'}}}%%
 timeline
-    title My Professional Timeline 🚀
+    title My Professional Timeline 
     
     section 2022
         Railway Management System : Java + MySQL
@@ -389,7 +389,7 @@ timeline
         Completed Handspeak FYP : AI-Powered Sign Language App
 ```
 
-### 💼 Experience Timeline
+### Experience Timeline
 
 <table>
 <tr>
@@ -397,7 +397,7 @@ timeline
 
 <div align="center">
 
-### 🚀 DeveloperTag
+### DeveloperTag
 **MERN Stack Developer Intern**
 
 ![Duration](https://img.shields.io/badge/Jun%202025-Present-00D9FF?style=for-the-badge)
@@ -405,20 +405,20 @@ timeline
 </div>
 
 ```yaml
-🎯 Key Responsibilities:
+ Key Responsibilities:
   ├── Full-stack MERN development
   ├── RESTful API architecture
   ├── Reusable React components
   ├── MongoDB database design
   └── CI/CD & Git workflows
 
-🛠️ Tech Stack:
+ Tech Stack:
   ├── MongoDB, Express.js
   ├── React.js, Node.js
   ├── JWT Authentication
   └── Tailwind CSS, Material UI
 
-📈 Impact:
+ Impact:
   └── Contributing to production apps
       serving thousands of users
 ```
@@ -428,7 +428,7 @@ timeline
 
 <div align="center">
 
-### 🔬 ISOLERA
+### ITSOLERA
 **Full-Stack Development Intern**
 
 ![Duration](https://img.shields.io/badge/Jul%202024-Oct%202024-6C63FF?style=for-the-badge)
@@ -436,20 +436,20 @@ timeline
 </div>
 
 ```yaml
-🎯 Key Responsibilities:
+ Key Responsibilities:
   ├── React frontend development
   ├── Flask backend services
   ├── AI model integrations
   ├── Performance optimization
   └── Feature deployment
 
-🛠️ Tech Stack:
+ Tech Stack:
   ├── React.js, Flask
   ├── Python, REST APIs
   ├── AI/ML Integration
   └── Docker, Git
 
-📈 Impact:
+ Impact:
   └── Shipped 5+ major features
       improving UX significantly
 ```
@@ -461,7 +461,7 @@ timeline
 
 <div align="center">
 
-### 📊 Mentorness
+### Mentorness
 **Data Analyst Intern**
 
 ![Duration](https://img.shields.io/badge/Jun%202024-Jul%202024-FF6B6B?style=for-the-badge)
@@ -469,18 +469,18 @@ timeline
 </div>
 
 ```yaml
-🎯 Key Responsibilities:
+ Key Responsibilities:
   ├── Power BI dashboard creation
   ├── Complex SQL optimization
   ├── Data visualization
   └── Insight generation
 
-🛠️ Tech Stack:
+ Tech Stack:
   ├── Power BI, SQL Server
   ├── Excel, DAX
   └── Statistical Analysis
 
-📈 Impact:
+ Impact:
   └── Delivered 3 interactive
       dashboards for stakeholders
 ```
@@ -490,24 +490,24 @@ timeline
 
 <div align="center">
 
-### 🏆 Career Highlights
+### Career Highlights
 
 </div>
 
 ```yaml
-🎯 Milestones Achieved:
-  ├── ✅ 15+ Production Projects
-  ├── ✅ 3 Professional Internships
-  ├── ✅ AI-Powered FYP Completed
-  ├── ✅ Full-Stack Expertise
-  └── ✅ Data Analytics Certified
+ Milestones Achieved:
+  ├── 15+ Production Projects
+  ├── 3 Professional Internships
+  ├── AI-Powered FYP Completed
+  ├── Full-Stack Expertise
+  └── Data Analytics Certified
 
-🏅 Recognition:
-  ├── 🌟 Top Performer @ ISOLERA
-  ├── 📊 Data Analytics Champion
-  └── 🎓 BS Computer Science
+Recognition:
+  ├── Top Performer @ ISOLERA
+  ├── Data Analytics Champion
+  └── BS Computer Science
 
-💪 Strengths:
+Strengths:
   ├── Problem Solving
   ├── Quick Learner
   └── Team Collaboration
@@ -525,11 +525,11 @@ timeline
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
-### 🖐️ Handspeak — Urdu Sign Language Translation
+### Handspeak — Urdu Sign Language Translation
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-✅%20Completed-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-%20Completed-brightgreen?style=for-the-badge)
 ![Type](https://img.shields.io/badge/Type-Final%20Year%20Project-blue?style=for-the-badge)
 ![Duration](https://img.shields.io/badge/Duration-12%20Months-orange?style=for-the-badge)
 
@@ -539,34 +539,34 @@ timeline
 <tr>
 <td width="60%">
 
-> **🎓 Final Year Project (2024-2025)**
+> ** Final Year Project (2024-2025)**
 >
 > A comprehensive AI-powered solution bridging communication gaps between the deaf community and others through real-time Urdu Sign Language translation.
 
-**🏗️ System Architecture:**
+** System Architecture:**
 
 ```
 ┌──────────────────────────────────────────────────┐
-│              🖐️ HANDSPEAK SYSTEM                 │
+│                 HANDSPEAK SYSTEM                 │
 ├──────────────────────────────────────────────────┤
-│  📱 Presentation Layer                           │
+│  Presentation Layer                              │
 │  └── Flutter Cross-Platform Mobile App           │
 │      ├── iOS & Android Support                   │
 │      └── Real-time Camera Processing             │
 ├──────────────────────────────────────────────────┤
-│  🤖 AI/ML Processing Layer                       │
+│  AI/ML Processing Layer                          │
 │  ├── TensorFlow Gesture Recognition Model        │
 │  ├── OpenCV Real-time Video Processing           │
 │  ├── Custom CNN Architecture                     │
 │  └── 1000+ Sign Dataset (Self-curated)           │
 ├──────────────────────────────────────────────────┤
-│  🔄 Translation Engine                           │
+│  Translation Engine                              │
 │  ├── Sign → Text Conversion                      │
 │  ├── Text → Speech (TTS)                         │
 │  ├── Text → 3D Sign Animation                    │
 │  └── Bi-directional Translation Pipeline         │
 ├──────────────────────────────────────────────────┤
-│  💾 Data Layer                                   │
+│  Data Layer                                      │
 │  └── Firebase Real-time Database                 │
 └──────────────────────────────────────────────────┘
 ```
@@ -574,7 +574,7 @@ timeline
 </td>
 <td width="40%">
 
-**📋 Project Details:**
+** Project Details:**
 
 | Aspect | Details |
 |:---|:---|
@@ -583,7 +583,7 @@ timeline
 | **My Role** | Lead Developer |
 | **Accuracy** | 95%+ |
 
-**🛠️ Tech Stack:**
+** Tech Stack:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -591,14 +591,14 @@ timeline
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**✨ Key Features:**
+** Key Features:**
 
-- 🎯 Real-time gesture detection
-- 🔄 Bi-directional translation
-- 🎬 3D sign animations
-- 📱 Cross-platform support
-- 🗣️ Text-to-speech output
-- 📊 Learning analytics
+- Real-time gesture detection
+- Bi-directional translation
+- 3D sign animations
+- Cross-platform support
+- Text-to-speech output
+- Learning analytics
 
 </td>
 </tr>
@@ -606,11 +606,11 @@ timeline
 
 ---
 
-### 🎓 Alumni Management System
+### Alumni Management System
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-✅%20Completed-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-%20Completed-brightgreen?style=for-the-badge)
 ![Type](https://img.shields.io/badge/Type-Enterprise%20Web%20App-blue?style=for-the-badge)
 ![Duration](https://img.shields.io/badge/Duration-2%20Months-orange?style=for-the-badge)
 
@@ -620,29 +620,29 @@ timeline
 <tr>
 <td width="60%">
 
-> **🏢 Enterprise Solution (May 2025)**
+> ** Enterprise Solution (May 2025)**
 >
 > A comprehensive web platform for managing alumni networks, events, job postings, and analytics for educational institutions.
 
-**🏗️ System Architecture:**
+** System Architecture:**
 
 ```
 ┌──────────────────────────────────────────────────┐
-│          🎓 ALUMNI MANAGEMENT SYSTEM             │
+│           ALUMNI MANAGEMENT SYSTEM               │
 ├──────────────────────────────────────────────────┤
-│  🌐 Presentation Layer                           │
+│  Presentation Layer                              │
 │  ├── ASP.NET Core MVC                            │
 │  ├── Razor Pages + Bootstrap 5                   │
 │  └── Responsive Dashboard UI                     │
 ├──────────────────────────────────────────────────┤
-│  ⚙️ Business Logic Layer                         │
+│  Business Logic Layer                            │
 │  ├── Identity & Role Management                  │
 │  ├── Event Scheduling Service                    │
 │  ├── Job Portal Management                       │
 │  ├── Alumni Directory Service                    │
 │  └── Analytics & Reporting                       │
 ├──────────────────────────────────────────────────┤
-│  💾 Data Access Layer                            │
+│  Data Access Layer                               │
 │  ├── Entity Framework Core                       │
 │  ├── Repository Pattern                          │
 │  └── SQL Server Database                         │
@@ -652,7 +652,7 @@ timeline
 </td>
 <td width="40%">
 
-**📋 Project Details:**
+** Project Details:**
 
 | Aspect | Details |
 |:---|:---|
@@ -661,7 +661,7 @@ timeline
 | **My Role** | Solo Developer |
 | **Users** | 500+ |
 
-**🛠️ Tech Stack:**
+** Tech Stack:**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -669,14 +669,14 @@ timeline
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-**✨ Key Features:**
+** Key Features:**
 
-- 🔐 Role-based authentication
-- 📅 Event management system
-- 💼 Job posting portal
-- 📊 Analytics dashboard
-- 👥 Alumni directory
-- 📧 Email notifications
+- Role-based authentication
+- Event management system
+- Job posting portal
+- Analytics dashboard
+- Alumni directory
+- Email notifications
 
 </td>
 </tr>
@@ -684,14 +684,14 @@ timeline
 
 ---
 
-### 📦 Other Notable Projects
+### Other Notable Projects
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" align="center">
 
-### 💊 Pharmacy Management System
+### Pharmacy Management System
 **Desktop Application (Jan 2023)**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -699,17 +699,17 @@ timeline
 ![Windows Forms](https://img.shields.io/badge/WinForms-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ```
-✅ Medicine inventory management
-✅ Patient records system
-✅ Stock level monitoring
-✅ Sales & billing module
-✅ Report generation
+Medicine inventory management
+Patient records system
+Stock level monitoring
+Sales & billing module
+Report generation
 ```
 
 </td>
 <td width="50%" align="center">
 
-### 🚂 Railway Management System
+### Railway Management System
 **Enterprise System (2022)**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -717,11 +717,11 @@ timeline
 ![Swing](https://img.shields.io/badge/Swing-007396?style=flat-square&logo=java&logoColor=white)
 
 ```
-✅ Employee CRUD operations
-✅ Train scheduling system
-✅ Ticket booking & cancellation
-✅ Seat reservation
-✅ Refund processing
+Employee CRUD operations
+Train scheduling system
+Ticket booking & cancellation
+Seat reservation
+Refund processing
 ```
 
 </td>
@@ -729,7 +729,7 @@ timeline
 <tr>
 <td width="50%" align="center">
 
-### 📚 Student Grade Tracker
+### Student Grade Tracker
 **Web Application (2023)**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -737,17 +737,17 @@ timeline
 ![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-007396?style=flat-square&logo=eclipse&logoColor=white)
 
 ```
-✅ Grade management system
-✅ GPA/CGPA calculation
-✅ Attendance visualization
-✅ Secure authentication
-✅ Performance analytics
+Grade management system
+GPA/CGPA calculation
+Attendance visualization
+Secure authentication
+Performance analytics
 ```
 
 </td>
 <td width="50%" align="center">
 
-### 🔮 Coming Soon...
+### Coming Soon...
 **Next Big Thing (2025)**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -755,10 +755,10 @@ timeline
 ![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ```
-🚧 Something exciting is brewing...
-🚧 AI-powered innovation
-🚧 Full-stack excellence
-🚧 Stay tuned!
+Something exciting is brewing...
+AI-powered innovation
+Full-stack excellence
+Stay tuned!
 ```
 
 </td>
@@ -774,7 +774,7 @@ timeline
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════════╗
-║                           💼 PROFESSIONAL SERVICES                                ║
+║                              PROFESSIONAL SERVICES                                ║
 ║                     Turning Your Ideas Into Digital Reality                       ║
 ╚═══════════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -785,84 +785,69 @@ timeline
 <tr>
 <td width="33%" align="center">
 
-### 🌐 Web Development
+### Web Development
 
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="150"/>
 
 **Full-Stack Solutions**
 
 ```
-✅ MERN Stack Applications
-✅ Next.js & React Apps
-✅ REST API Development
-✅ JWT Authentication
-✅ Database Architecture
-✅ AI/ML Integrations
-✅ CMS (Strapi/Sanity)
-✅ Cloud Deployment
-✅ Performance Optimization
+MERN Stack Applications
+Next.js & React Apps
+REST API Development
+JWT Authentication
+Database Architecture
+AI/ML Integrations
+CMS (Strapi/Sanity)
+Cloud Deployment
+Performance Optimization
 ```
 
 </td>
 <td width="33%" align="center">
 
-### 🖥️ Custom Software
+### Custom Software
 
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="150"/>
 
 **Desktop & Systems**
 
 ```
-✅ Windows Applications
-✅ Cross-platform Apps
-✅ Database Integration
-✅ File Handling Systems
-✅ System Programming
-✅ Algorithm Design
-✅ GUI Development
-✅ Automation Scripts
-✅ API Development
+Windows Applications
+Cross-platform Apps
+Database Integration
+File Handling Systems
+System Programming
+Algorithm Design
+GUI Development
+Automation Scripts
+API Development
 ```
 
 </td>
 <td width="33%" align="center">
 
-### 🔧 Code Services
+### Code Services
 
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="150"/>
 
 **Quality & Performance**
 
 ```
-✅ Code Optimization
-✅ Performance Tuning
-✅ Bug Fixing
-✅ Code Reviews
-✅ Refactoring
-✅ Security Audits
-✅ Testing & QA
-✅ Documentation
-✅ Technical Support
+Code Optimization
+Performance Tuning
+Bug Fixing
+Code Reviews
+Refactoring
+Security Audits
+Testing & QA
+Documentation
+Technical Support
 ```
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-### 💰 Pricing & Availability
-
-| Service Type | Starting Price | Delivery Time | Complexity |
-|:---:|:---:|:---:|:---:|
-| 🎨 Landing Page | **$50** | 2-3 days | ⭐ |
-| 🌐 Full Website | **$200+** | 1-2 weeks | ⭐⭐ |
-| 📱 Web Application | **$500+** | 2-4 weeks | ⭐⭐⭐ |
-| 🖥️ Custom Software | **$300+** | 1-3 weeks | ⭐⭐⭐ |
-| 🐛 Bug Fixing | **$20/hr** | 24-48 hrs | ⭐ |
-| 🤖 AI Integration | **$400+** | 2-3 weeks | ⭐⭐⭐⭐ |
-
-<br/>
 
 [![Hire Me](https://img.shields.io/badge/🚀_HIRE_ME_ON_UPWORK-14A800?style=for-the-badge&logoColor=white)](https://www.upwork.com/freelancers/~01d018f9ca9768b53d?mp_source=share)
 [![Book a Call](https://img.shields.io/badge/📞_SCHEDULE_A_CALL-FF5722?style=for-the-badge&logoColor=white)](mailto:zainm2432003@gmail.com)
@@ -878,7 +863,7 @@ timeline
 
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="300">
 
-### 🌟 Open for Opportunities & Collaborations
+### Open for Opportunities & Collaborations
 
 <br/>
 
@@ -900,7 +885,7 @@ timeline
 
 <br/><br/>
 
-| 📧 Email | 💼 LinkedIn | 🌐 Portfolio | 💚 Upwork |
+| Email | LinkedIn | Portfolio | Upwork |
 |:---:|:---:|:---:|:---:|
 | [zainm2432003@gmail.com](mailto:zainm2432003@gmail.com) | [/in/zain688](https://www.linkedin.com/in/zain688/) | [Visit Site](https://zainulabideenportfolio.netlify.app/) | [Hire Me](https://www.upwork.com/freelancers/~01d018f9ca9768b53d) |
 
@@ -912,29 +897,29 @@ timeline
 
 <div align="center">
 
-### 💭 Dev Quote of the Day
+### Dev Quote of the Day
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming)](https://github.com/piyushsuthar/github-readme-quotes)
 
-### ⏱️ Weekly Coding Breakdown
+### Weekly Coding Breakdown
 
 ```text
-💻 Full-Stack Dev      ████████████████████░░░░░   80.00 % 
-📚 Learning & Research ██████░░░░░░░░░░░░░░░░░░░   24.00 %
-🎨 UI/UX Design        ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
-📝 Documentation       ██░░░░░░░░░░░░░░░░░░░░░░░    8.00 %
-☕ Coffee Breaks        █░░░░░░░░░░░░░░░░░░░░░░░░    4.00 %
+Full-Stack Dev      ████████████████████░░░░░   80.00 % 
+Learning & Research ██████░░░░░░░░░░░░░░░░░░░   24.00 %
+UI/UX Design        ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
+Documentation       ██░░░░░░░░░░░░░░░░░░░░░░░    8.00 %
+Coffee Breaks        █░░░░░░░░░░░░░░░░░░░░░░░░    4.00 %
 ```
 
-### 🎮 Fun Facts About Me
+### Fun Facts About Me
 
 ```yaml
-🌙 Night Owl Coder: Most productive between 10 PM - 3 AM
-☕ Coffee Addiction: ~4 cups per coding session
-🎵 Coding Playlist: Lo-fi beats & instrumental
-🎯 Keyboard: Mechanical (Blue switches FTW!)
-🐛 Debug Method: Console.log everything 😅
-💡 Favorite Quote: "It works on my machine!"
+Night Owl Coder: Most productive between 10 PM - 3 AM
+Coffee Addiction: ~4 cups per coding session
+Coding Playlist: Lo-fi beats & instrumental
+Keyboard: Mechanical (Blue switches FTW!)
+Debug Method: Console.log everything 😅
+Favorite Quote: "It works on my machine!"
 ```
 
 </div>
@@ -945,11 +930,11 @@ timeline
 
 <div align="center">
 
-### 🌟 If you like my work, consider giving a ⭐
+### If you like my work, consider giving a ⭐
 
-<img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Powered%20by-Coffee%20☕-brown?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Built%20with-Passion%20🔥-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Made%20with--red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Powered%20by-Coffee%20-brown?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Built%20with-Passion%20-orange?style=for-the-badge"/>
 
 <br/><br/>
 
