@@ -579,7 +579,7 @@ Strengths:
 | Aspect | Details |
 |:---|:---|
 | **Category** | AI/ML + Mobile |
-| **Team Size** | 4 Members |
+| **Team Size** | 2 Members |
 | **My Role** | Lead Developer |
 | **Accuracy** | 95%+ |
 
