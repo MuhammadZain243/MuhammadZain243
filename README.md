@@ -45,8 +45,8 @@ const zain = {
     location: "Lahore, Punjab, Pakistan 🇵🇰",
     
     currentRole: {
-        position: "Team Lead - Full Stack Development",
-        company: "DeveloperTag Team Leads",
+        position: "Associate - Full Stack Development",
+        company: "DeveloperTag Associates",
         focus: "Enterprise Security & Multi-tenant Platforms",
         since: "June 2024"
     },
@@ -488,7 +488,7 @@ timeline
         Payment Integrations : Stripe + PayPal
     
     section 2025 Q1
-        Team Lead @ DeveloperTag : Full-Stack Enterprise Solutions
+        Associate @ DeveloperTag : Full-Stack Enterprise Solutions
         Alumni Management System : ASP.NET Core + SQL Server
         Completed Handspeak FYP : AI Sign Language Translation
         BizLifeLine Platform : Business Automation Tools
@@ -507,8 +507,8 @@ timeline
 <div align="center">
 
 ```yaml
-Position: Team Lead - Full-Stack Development
-Company: DeveloperTag Team Leads
+Position: Associate - Full-Stack Development
+Company: DeveloperTag Associates
 Duration: June 2024 - Present
 Location: Remote, Pakistan
 
@@ -603,8 +603,8 @@ Key Achievements:
 
 <div align="center">
 
-### DeveloperTag Team Leads
-**Team Lead - Full-Stack Development**
+### DeveloperTag Associates
+**Associate - Full-Stack Development**
 
 ![Duration](https://img.shields.io/badge/Jun%202024-Present-00D9FF?style=for-the-badge)
 
@@ -616,7 +616,7 @@ Key Responsibilities:
   ├── Multi-tenant system design
   ├── Security & authentication systems
   ├── Database optimization & scaling
-  ├── Team leadership & code reviews
+  ├── Associateership & code reviews
   └── Production deployment & monitoring
 
 Tech Stack:
@@ -741,7 +741,7 @@ Technical Evolution:
         ├── Cloud Deployment
         └── Enterprise Architecture
   
-  2025: ├── Team Leadership
+  2025: ├── Associateership
         ├── Security-First Design
         ├── Multi-tenant Systems
         └── Advanced Cloud & DevOps
