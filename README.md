@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=Muhammad%20Zain%20Ul%20Abideen&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=MERN%20Stack%20Developer%20|%20Full-Stack%20Explorer%20|%20AI%20%26%20Data%20Enthusiast&descSize=20&descAlignY=75"/>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=80&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Line+of+Code+at+a+Time)](https://git.io/typing-svg)
