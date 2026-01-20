@@ -497,7 +497,6 @@ timeline
         
     section 2025 Q2 (Current)
         GuardX Production Ready : Multi-tenant Security Platform
-        QHT Blockchain Project : Quantum Health Token
         Online Quran Academies : Education Platform Development
         Cloud Deployment Mastery : AWS + Railway + Vercel
         Real-time Systems : WebSocket + Event-driven Architecture
@@ -1719,7 +1718,7 @@ Response Time:
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
-**💼 Currently Building:** GuardX Security Platform | QHT Blockchain | AI Solutions  
+**💼 Currently Building:** GuardX Security Platform | AI Solutions  
 **🎯 2025 Goal:** Impact 10,000+ users through technology  
 **🌟 Open to:** Innovative projects, collaborations, and challenging problems
 
