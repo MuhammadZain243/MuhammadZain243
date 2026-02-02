@@ -1719,13 +1719,13 @@ Response Time:
 ```
 
 **💼 Currently Building:** GuardX Security Platform | AI Solutions  
-**🎯 2025 Goal:** Impact 10,000+ users through technology  
+**🎯 2026 Goal:** Impact 10,000+ users through technology  
 **🌟 Open to:** Innovative projects, collaborations, and challenging problems
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=30&section=footer"/>
 
-**© 2025 Muhammad Zain Ul Abideen • All Rights Reserved**
+**© 2026 Muhammad Zain Ul Abideen • All Rights Reserved**
 
 </div>
